@@ -69,5 +69,8 @@ In Indian Sign Language, many gestures require **both hands**, making it difficu
   - `extract_hand_shapes.py`, `extract_100_features.py`, `extract_sentence_features.py`
   - `train_model.py`, `train_handshape_model.py`, `train_100_model.py`, `train_sentence_model.py`
 
+- Demo Video:  https://youtu.be/ZlTjWXswjyU?si=thRJSYdr0vmUfFi8
+- 
+
 ---
 
