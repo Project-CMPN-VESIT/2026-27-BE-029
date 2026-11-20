@@ -71,11 +71,3 @@ In Indian Sign Language, many gestures require **both hands**, making it difficu
 
 ---
 
-## 📝 Resume Points (Copy-Paste Ready)
-
-> **VANI-ISL: Real-Time Indian Sign Language Recognition System**  
-> *Technologies: Python, OpenCV, MediaPipe, TensorFlow, NumPy*
-> - **Real-Time Gesture Recognition:** Developed a standalone computer vision system translating 220 Indian Sign Language (ISL) gestures and full sentences with up to **96% accuracy** at **30+ FPS**.
-> - **Markerless 3D Hand Tracking:** Integrated **MediaPipe Holistic** and **OpenCV** to track 3D joint landmarks, calculating scale-invariant kinematic features without requiring physical sensors or gloves.
-> - **Zero-Touch Interaction:** Engineered a velocity-gated dwell and release mechanism allowing users to fluently compose two-handed sign sentences without keyboard or mouse interaction.
-> - **Real-Time Audio Synthesis:** Integrated speech synthesis for instant sentence vocalization with responsive UI telemetry and error-correction shortcuts (undo, replace, clear).
